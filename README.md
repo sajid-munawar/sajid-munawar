@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-munawar)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-munawar&exclude_repo=Data_Cleaning_with_python,Manning_Deep_Learning_with_Python,Crash_course_on_python_by_Google,PIAIC_Batach3_Quarter2,Python-programming-exercises)](https://github.com/anuraghazra/github-readme-stats)
