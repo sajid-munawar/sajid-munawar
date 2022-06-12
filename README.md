@@ -1,6 +1,13 @@
 <h2> Hi, I'm Sajid Munawar <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+<!-- [![](https://img.shields.io/badge/Micronaut-Angom%20Chittaranjan-blue)](https://linkedin.com/in/angom-chittaranjan) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sajid%20Munawar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/ellievillalejos/](https://www.linkedin.com/in/sajid-munawar-41ba26180/)](https://www.linkedin.com/in/sajid-munawar-41ba26180/))]([[https://www.linkedin.com/in/ellievillalejos/](https://www.linkedin.com/in/sajid-munawar-41ba26180/)](https://www.linkedin.com/in/sajid-munawar-41ba26180/))
+
+[![Linkedin Badge](https://img.shields.io/badge/Micronaut-Sajid%20Munawar-blue)](https://linkedin.com/in/sajid-munawar)
+
+[![Linkedin Badge](https://img.shields.io/badge/Micronaut-Sajid%20Munawar-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://linkedin.com/in/sajid-munawar)
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Sajid%20Munawar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[](https://www.linkedin.com/in/sajid-munawar-41ba26180/))]([[https://www.linkedin.com/in/ellievillalejos/](https://www.linkedin.com/in/sajid-munawar-41ba26180/)](https://www.linkedin.com/in/sajid-munawar-41ba26180/))
 <!--
 **sajid-munawar/sajid-munawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
