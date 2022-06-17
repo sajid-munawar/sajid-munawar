@@ -1,3 +1,4 @@
+<div align='center'>
 <h2> Hi, I'm Sajid Munawar <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 
 
@@ -36,4 +37,4 @@ Here are some ideas to get you started:
     alt="adam-pw" 
     bg_color=#808080/></p>
     
-
+</div>
