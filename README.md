@@ -3,13 +3,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Micronaut-Sajid%20Munawar-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://linkedin.com/in/sajid-munawar)
 
-<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 🌱 I’m currently learning Full Stack Web Development
 
 📫 Open to new opportunities
 
 💬How to reach me: [Email](sajidmunawar666@gmail.com)
+
+<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <!--
 **sajid-munawar/sajid-munawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
