@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Micronaut-Sajid%20Munawar-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://linkedin.com/in/sajid-munawar)
 
 
-🌱 I’m currently learning Full Stack Web Development
+🌱 I’m currently learning full-stack Web Development
 
 📫 Open to new opportunities
 
