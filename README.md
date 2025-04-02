@@ -1,4 +1,4 @@
-<h2 align='center'> Hi, I'm Sajid Munawar <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+<h2 align='center'> Hi, I'm Sajid Munawar</h2>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/Micronaut-Sajid%20Munawar-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://linkedin.com/in/sajid-munawar)
