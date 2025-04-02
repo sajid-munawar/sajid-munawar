@@ -8,7 +8,7 @@
 
 📫 Open to new opportunities
 
-💬How to reach me: [Email](sajidmunawar666@gmail.com)
+💬How to reach me: [Email](iamsajiddev@gmail.com)
 
 <p><img align="center" width='100vw' heigh='auto' src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
